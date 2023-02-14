@@ -11,4 +11,5 @@ These are papers which I have been reading as a part of my coursework, individua
 | A Simple Framework for Contrastive Learning of Visual Representations | [Link](https://app.desklamp.io/read?id=0a8a9212-48ce-4bdf-b0e2-ef5234379003)
 | Anomaly Detection in Log Files Using Selected NLP Methods | [Link](https://app.desklamp.io/read?id=e3a147b0-43fe-4387-968a-c2930ec541d3)
 | Learning Implicit Feature Alignment Function for Semantic Segmentation | [Link](https://app.desklamp.io/read?id=28c6cd24-ea11-4b46-8f42-aba7c9d49c62)
-| Estimating Task Completion Times for NetworkRollouts using Statistical Models withinPartitioning-based Regression Methods (In Progress) | [Link](https://app.desklamp.io/read?id=ac4e8b3f-4da9-4d59-b894-4d2e6f2a26a6)
+| Estimating Task Completion Times for Network Rollouts using Statistical Models within Partitioning-based Regression Methods (In Progress) | [Link](https://app.desklamp.io/read?id=ac4e8b3f-4da9-4d59-b894-4d2e6f2a26a6)
+| Contrastive Adaptation Network for Unsupervised Domain Adaptation (In Progress) | [Link](https://app.desklamp.io/read?id=b24ce900-4961-430c-93a5-3c41b58f0dee)
